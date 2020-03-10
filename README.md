@@ -15,13 +15,13 @@ english learn: grammar vocabulary sentence translate ，英语学习，语法，
 + [ ] 句子类型
 + [x] [名词从句](https://github.com/removeif/english-learn/blob/master/grammar/英语语法-名词从句.md)
 + [x] [基本句子结构](https://github.com/removeif/english-learn/blob/master/grammar/英语语法-基本句子结构.md)
-+ [ ] 完成时
++ [x] [完成时](https://github.com/removeif/english-learn/blob/master/grammar/英语语法-完成时.md)
 + [x] [完成进行时](https://github.com/removeif/english-learn/blob/master/grammar/英语语法-完成进行时.md)
 + [ ] 形容词adjective
 + [ ] 状语从句
 + [ ] 语法1
-+ [ ] 限定词1
-+ [ ] 限定词2
++ [x] [限定词1](https://github.com/removeif/english-learn/blob/master/grammar/英语语法-限定词1.md)
++ [x] [限定词2](https://github.com/removeif/english-learn/blob/master/grammar/英语语法-限定词2.md)
 
 ## 词汇
 
