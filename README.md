@@ -11,12 +11,12 @@ english learn: grammar vocabulary sentence translate ，英语学习，语法，
 + [x] [被动语态](https://github.com/removeif/english-learn/blob/master/grammar/英语语法-被动语态.md)
 + [x] 人称代词(https://github.com/removeif/english-learn/blob/master/grammar/英语语法-人称代词.md)
 + [x] [介词](https://github.com/removeif/english-learn/blob/master/grammar/英语语法-介词.md)
-+ [x] 句子简化(https://github.com/removeif/english-learn/blob/master/grammar/英语语法-句子简化.md)
++ [x] [句子简化](https://github.com/removeif/english-learn/blob/master/grammar/英语语法-句子简化.md)
 + [ ] 句子类型
-+ [x] 名词从句(https://github.com/removeif/english-learn/blob/master/grammar/英语语法-名词从句.md)
++ [x] [名词从句](https://github.com/removeif/english-learn/blob/master/grammar/英语语法-名词从句.md)
 + [x] [基本句子结构](https://github.com/removeif/english-learn/blob/master/grammar/英语语法-基本句子结构.md)
 + [ ] 完成时
-+ [x] 完成进行时(https://github.com/removeif/english-learn/blob/master/grammar/英语语法-完成进行时.md)
++ [x] [完成进行时](https://github.com/removeif/english-learn/blob/master/grammar/英语语法-完成进行时.md)
 + [ ] 形容词adjective
 + [ ] 状语从句
 + [ ] 语法1
