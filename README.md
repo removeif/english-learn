@@ -9,7 +9,7 @@ english learn: grammar vocabulary sentence translate ，英语学习，语法，
 + [x] [动词不定式](https://github.com/removeif/english-learn/blob/master/grammar/英语语法-动词不定式.md)
 + [x] [定语从句](https://github.com/removeif/english-learn/blob/master/grammar/英语语法-定语从句.md)
 + [x] [被动语态](https://github.com/removeif/english-learn/blob/master/grammar/英语语法-被动语态.md)
-+ [x] 人称代词(https://github.com/removeif/english-learn/blob/master/grammar/英语语法-人称代词.md)
++ [x] [人称代词](https://github.com/removeif/english-learn/blob/master/grammar/英语语法-人称代词.md)
 + [x] [介词](https://github.com/removeif/english-learn/blob/master/grammar/英语语法-介词.md)
 + [x] [句子简化](https://github.com/removeif/english-learn/blob/master/grammar/英语语法-句子简化.md)
 + [ ] 句子类型
